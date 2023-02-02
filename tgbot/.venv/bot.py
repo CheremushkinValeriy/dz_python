@@ -7,7 +7,7 @@
 
 import telebot, random
 
-bot = telebot.TeleBot("5930722554:AAG-fuuxqQuEl1yNrwF0E65aHnqd_k-rRew")
+bot = telebot.TeleBot("6094875527:AAGI71tg9fb1E7Vp8UPWwPnv7vhVK0QlZw8")
 
 flag = None
 sweets = 60
